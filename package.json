@@ -16,7 +16,7 @@
     "convert-source-map": "^1.2.0",
     "lodash": "^4.7.0",
     "path-exists": "^2.1.0",
-    "proxyquire": "^1.7.4",
+    "proxyquire": "^1.7.7",
     "subdir": "0.0.3"
   },
   "devDependencies": {
